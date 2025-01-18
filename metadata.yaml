@@ -1,0 +1,35 @@
+_repo: Weather-proverbs_74916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunwoody, H. H. C. (Henry Harrison Chase)
+    alias: Dunwoody, Henry Harrison Chase
+    birthdate: 1842
+    deathdate: 1933
+    gutenberg_agent_id: '57723'
+    url: http://www.gutenberg.org/2009/agents/57723
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Harrison_Chase_Dunwoody
+description: ''
+gutenberg_issued: '2024-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74916'
+  lccn: '04013074'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006808478
+pgterms:marc905: 20230504162836dunwoody
+pgterms:marc906: '1883'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aWashington :$bGovernment Printing Office, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Signal Office. Signal service notes, no. 9
+subjects:
+- !lcsh 'Weather -- Folklore'
+- !lcc 'QC'
+- GITenberg
+title: Weather proverbs
+url: http://www.gutenberg.org/ebooks/74916
