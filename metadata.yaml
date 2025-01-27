@@ -1,5 +1,8 @@
 _repo: Weather-proverbs_74916
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74916-h/images/cover.jpg
 creator:
   author:
     agent_name: Dunwoody, H. H. C. (Henry Harrison Chase)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57723
     wikipedia: https://en.wikipedia.org/wiki/Henry_Harrison_Chase_Dunwoody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74916#Weather-proverbs
 gutenberg_issued: '2024-12-16'
 gutenberg_type: Text
 identifiers:
